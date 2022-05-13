@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(240, 240, 238)
+}
+h1{
+    background-color: rgb(82, 82, 57);
+    color: white;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    color:rgb(39, 34, 34)
+}
+.button{
+    background-color: rgb(55, 145, 126);
+    color: rgb(241, 232, 232);
+    padding: 15px 30px;
+    text-align: center;
+    width:30%;
+    border: none;
+    margin: 2px;
+    
+}
+
+div{
+    text-align: center;
+
+}
+
